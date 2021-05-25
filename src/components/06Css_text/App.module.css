@@ -1,0 +1,42 @@
+.arial {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.fontSize30 {
+    font-size: 30px;
+}
+.italic {
+    font-style: italic;
+}
+.font700 {
+    font-weight: 700;
+}
+.colorRed {
+    color: red;
+}
+.textRight {
+    text-align: justify;
+}
+.decoration {
+    text-decoration: line-through;
+}
+.shadow {
+    text-shadow: 1px 1px 5px black;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.ident {
+    text-indent: 50px;
+}
+.letterSpace {
+    letter-spacing: 10px;
+}
+.wordSpace {
+    word-spacing: 10px;
+}
+.whiteSpace {
+    white-space: nowrap;
+}
+.lineHeight {
+    line-height: 33px;
+}
