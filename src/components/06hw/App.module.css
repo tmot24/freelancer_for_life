@@ -1,0 +1,64 @@
+.root {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    /* Style for "background" */
+    width: 1280px;
+    height: 3186px;
+}
+
+h1 {
+    color: #445161;
+    font-size: 30px;
+}
+p.text {
+    color: #333333;
+    font-size: 14px;
+    line-height: 25px;
+}
+h2 {
+    font-size: 25px;
+    color: #445161;
+}
+p.bold {
+    font-weight: bold;
+    color: #333333;
+}
+p.red {
+    color: #ff0000;
+}
+.right {
+    color: #333333;
+    text-align: right;
+}
+.upper {
+    color: #333333;
+    text-transform: uppercase;
+}
+.italic {
+    color: #333333;
+    font-style: italic;
+}
+.under {
+    color: #333333;
+    text-decoration: underline;
+}
+.center {
+    text-align: center;
+    color: #333333;
+}
+.big {
+    color: #333333;
+    font-size: 24px;
+}
+.through {
+    color: #333333;
+    text-decoration: line-through;
+}
+
+.roman {
+    color: #333333;
+    font-family: "Times New Roman PSMT", sans-serif;
+}
+.shadow {
+    text-shadow: 1px 1px 1px #000000;
+    color: #333333;
+}
